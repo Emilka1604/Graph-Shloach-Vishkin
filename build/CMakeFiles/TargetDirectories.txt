@@ -1,3 +1,0 @@
-/home/esharipov/esharipov/workspace/igraph_test_project/build/CMakeFiles/edit_cache.dir
-/home/esharipov/esharipov/workspace/igraph_test_project/build/CMakeFiles/rebuild_cache.dir
-/home/esharipov/esharipov/workspace/igraph_test_project/build/CMakeFiles/igraph_test.dir

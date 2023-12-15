@@ -140,7 +140,7 @@ igraph_error_t test(igraph_integer_t minSize, igraph_integer_t maxSize, igraph_i
 int main() {
 
     std::size_t i = 0;
-    while(test(1000, 2000, 5) == IGRAPH_SUCCESS) {
+    if(test(10000, 20000, 5) == IGRAPH_SUCCESS) {
         std::cout << "ok";
     }
 
